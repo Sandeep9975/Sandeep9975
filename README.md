@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://nas.io/Data-Science-Analytics](https://nas.io/Data-Science-Analytics)
 
-- 💬 Ask me about **Data Visualization, Front-End, Web Development**
+- 💬 Ask me about **Data Analytics, Data Visualization, Front-End, Web Development**
 
 - 📫 How to reach me **Sandeepreddy.palleri@gmail.com**
 
