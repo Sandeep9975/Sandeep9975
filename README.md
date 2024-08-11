@@ -7,15 +7,11 @@
 
 - 🌱 I’m currently learning **Data Analytics**
 
-- 👨‍💻 All of my projects are available at [www.sandeep.social](https://sandeep.social/)
-
 - 📝 I regularly write articles on [https://nas.io/Data-Science-Analytics](https://nas.io/Data-Science-Analytics)
 
 - 💬 Ask me about **Data Analytics, Data Visualization, Front-End, Web Development**
 
 - 📫 How to reach me **Sandeepreddy.palleri@gmail.com**
-
-- 📄 Know about my experiences [https://sandeep.social/resume.html](https://sandeep.social/resume.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
